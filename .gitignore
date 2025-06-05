@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.env.*
+*.db
+*.sqlite3
+.vscode/
+.idea/
+build/       # Optional: if you want to exclude the build directory
