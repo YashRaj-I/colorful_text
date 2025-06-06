@@ -220,7 +220,7 @@ while running:
             manager.process_events(event)
 
     if show_ui:
-        screen.fill("black")
+        screen.fill("Dark blue")
         manager.update(time_delta)
         manager.draw_ui(screen)
 
